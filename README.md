@@ -2,4 +2,4 @@
  First Workshop on 6G Enablers: Satellite, Qualitative and Semantic Communications
 
 The details of the meeting is in the file:
-
+IEEE ICNP'23 Workshop.pdf
